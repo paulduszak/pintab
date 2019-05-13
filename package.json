@@ -1,0 +1,12 @@
+{
+  "name": "pintab",
+  "version": "0.0.1",
+  "description": "Replace your new tab page with a dashboard of your Pinboard pins.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}

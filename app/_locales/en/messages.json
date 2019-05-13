@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "pintab",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "pintab",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Replace your new tab page with a dashboard of your Pinboard pins.",
+    "description": "The description of the application"
+  }
+}
